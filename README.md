@@ -3,4 +3,4 @@
 
 2) Execute as:
 
-	 $ ./stage1exe testcase
+	 $ ./stage1exe testCaseFilename outputFileName
